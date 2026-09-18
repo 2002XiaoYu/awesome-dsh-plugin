@@ -2,5 +2,5 @@ url: https://github.com/2002XiaoYu/dsh-session-diff
 name: 2002XiaoYu/dsh-session-diff
 category: ui
 description:
-  en: "Session-scoped diff decoration for the DSH Web right sidebar: opening a file the current conversation changed shows git-style added/removed line backgrounds, +/− gutter markers, dual old/new line numbers, syntax colouring, a changes-only/whole-file toggle and a re-read button, plus a companion page listing every file this conversation touched; files the conversation did not touch keep the shipped text viewer."
-  zh: "为 DSH Web 右侧栏提供按会话的 diff 标注：打开当前对话改过的文件时，按 git 风格显示新增/删除行背景、+/− 行标记、新旧双行号、语法高亮，以及「仅看改动 / 整个文件」切换和重新读取按钮；另有一个页面列出本次对话改过的全部文件，未被改动的文件仍走自带文本查看器。"
+  en: "Session-scoped diff view for the DSH Web right sidebar: opening a file the current conversation changed renders it in place with git-style added/removed line backgrounds, +/− gutter markers and dual old/new line numbers under syntax colouring, a header with +added −removed counts, a Changes only / Whole file toggle and a Re-read button, plus a companion tab that lists every file the session changed and opens each one in the same view. Files the conversation did not touch keep the shipped text viewer."
+  zh: "为 DSH Web 右侧栏提供按会话的 diff 视图：打开当前对话改动过的文件时原位渲染，按 git 风格显示新增/删除行底色、+/− 行标记、新旧双行号与语法高亮，头部带 +新增 −删除 计数、「仅看改动 / 整个文件」切换和「重新读取」按钮；另有一个配套标签页列出本次会话改动过的所有文件，点开即进入同一视图。当前对话没有改动过的文件仍使用自带文本查看器。"
